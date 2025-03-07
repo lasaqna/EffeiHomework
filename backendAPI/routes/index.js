@@ -9,7 +9,7 @@ const path = require('path');
 const db = mysql.createConnection({
   host: 'localhost',
   user: 'root',
-  password: 'mysnasyo8516', // あなたのMySQLパスワードに置き換えてください
+  password: '', // あなたのMySQLパスワードに置き換えてください
   database: 'user_db',
 });
 
