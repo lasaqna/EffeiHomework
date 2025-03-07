@@ -3,7 +3,7 @@
     スキーマ名"user_db"でスキーマを作る  
     そこにテーブル名userでテーブルを作る
     - カラム
-      - user_name,password
+      - username,password
       - 両方ともVARCHART(45)
 2.  
 コマンドプロンプトを二つ開いて下のコマンドを動かす
